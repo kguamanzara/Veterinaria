@@ -1,6 +1,23 @@
-# Veterinaria
-la Clínica Veterinaria del Bosque contamos con excelentes programas de medicina preventiva como es la aplicación de vacunas para perros, gatos y hurones de los laboratorios más reconocidos y con los distribuidores  del ramo que se han destacado por el mantenimiento de la cadena fría para que los biológicos al ser aplicados a su mascota se encuentren en perfectas condiciones.
+Veterinaria
 
-También contamos con el chequeo geriátrico el cual recomendamos para perros de talla miniatura a partir de los 9 años de edad, los perros de talla media a partir de los 7 años y los de talla gigante como el gran danés o san bernardo a partir de los 6 años, en estos chequeos podemos detectar enfermedades antes de la presentación de los signos clínicos y comenzar una estrategia para que nuestros amigos tengan una vida más larga y de mejor calidad.
+La Clínica Veterinaria, contamos con un excelente programa de peluqueria, spa y medicina preventiva como es la aplicación de vacunas para perros.
 
-Para mas informacion contacteme al numero 0978614735...
+- 1. El programa de consola programado debe registrar a su mascota el cual pide algunos datos estos son: 
+a) nombre de la mascota
+b) cuantos años tiene
+c) De que raza es
+d) De que color es 
+
+- 2. Una vez registrado muestran los datos para verificar que esten correctos .
+
+- 3. Debe escoger el sevicio que requiera. 
+
+Para mas informacion contactarse con :
+Katy Guamanzara 
+celular: 0978614735 
+
+
+
+
+
+
